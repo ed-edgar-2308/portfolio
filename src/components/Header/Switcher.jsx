@@ -1,6 +1,6 @@
-import UseDarkSide from "../themes/UseDarkSide";
-import iconLightMode from "../assets/icons/icon-light-mode_32_light.svg";
-import iconDarkMode from "../assets/icons/icon-dark-mode_32_dark.svg";
+import UseDarkSide from "../../themes/UseDarkSide";
+import iconLightMode from "../../assets/icons/icon-light-mode_32_light.svg";
+import iconDarkMode from "../../assets/icons/icon-dark-mode_32_dark.svg";
 
 export default function Switcher() {
   const [nextTheme, setTheme] = UseDarkSide();
