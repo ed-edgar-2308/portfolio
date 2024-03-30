@@ -1,9 +1,12 @@
 import Header from "./components/Header/Header";
+import Hero from "./components/Hero";
 
 export default function App() {
+  console.log("render");
   return (
-    <div className="bg-white dark:bg-[#030712]">
+    <div className="dark:bg-[#030713]">
       <Header />
+      <Hero />
     </div>
   );
 }
