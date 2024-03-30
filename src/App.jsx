@@ -1,5 +1,9 @@
-const App = () => {
-  return <div>App</div>;
-};
+import Header from "./components/Header";
 
-export default App;
+export default function App() {
+  return (
+    <div className="bg-white dark:bg-[#030712]">
+      <Header />
+    </div>
+  );
+}
