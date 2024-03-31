@@ -12,7 +12,7 @@ export default function About() {
             <img
               src={avatar}
               alt="avatar"
-              className="ml-[3rem] p-[0.8rem] bg-white dark:bg-[#030712] w-[24rem] z-10 relative"
+              className="ml-[3rem] p-[0.8rem] bg-white dark:bg-[#111827] w-[24rem] z-10 relative"
             />
             <div className="bg-gray-200 dark:bg-[#374151] z-0 w-[24rem] h-[24rem] absolute top-16"></div>
           </div>
@@ -24,7 +24,7 @@ export default function About() {
               I{"'"}m a passionate,{" "}
               <a
                 href="https://www.figma.com/@ralph2308s"
-                className="underline hover:text-[#F9FAFB] transition-all duration-300">
+                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
                 self-proclaimed designer
               </a>{" "}
               who specializes in full stack development (React.js & Node.js). I
@@ -53,14 +53,14 @@ export default function About() {
               follow me on{" "}
               <a
                 href="https://twitter.com/ralph2308s"
-                className="underline hover:text-[#F9FAFB] transition-all duration-300">
+                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
                 Twitter
               </a>{" "}
               where I share tech-related bites and build in public, or you can
               follow me on{" "}
               <a
                 href="https://github.com/ralph2308s"
-                className="underline hover:text-[#F9FAFB] transition-all duration-300">
+                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
                 Github
               </a>
               .
