@@ -2,7 +2,7 @@ import Switcher from "./Switcher";
 
 const Header = () => {
   return (
-    <header className="layout flex items-center px-[4%] py-[1.6rem] justify-between">
+    <header className="bg-white/50 backdrop-blur-xl dark:bg-black/50 h-[6.8rem] fixed top-0 z-50 left-[50%] -translate-x-[50%] layout flex items-center px-[4%] justify-between">
       <a
         href=""
         className="font-bold text-5xl leading-[3.6rem] -tracking-[2%] text-gray-900 dark:text-[#F9FAFB]">
