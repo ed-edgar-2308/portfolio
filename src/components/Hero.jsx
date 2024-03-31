@@ -10,7 +10,7 @@ import iconFigmaDark from "../assets/icons/icon-figma_32_dark.svg";
 
 export default function Hero() {
   return (
-    <div className="dark:bg-[#030712] w-[160rem] max-w-[100%] mx-auto flex gap-40 px-[4%] py-[9.6rem]">
+    <div className="layout flex gap-[8%] px-[4%] py-[9.6rem]">
       <div className="flex-1">
         <h1 className="dark:text-[#F9FAFB] mt-4 font-bold text-8xl leading-[7.2rem] -tracking-[2%] text-gray-900">
           Hi, I{"'"}m Hoang Anh{" "}
@@ -36,10 +36,10 @@ export default function Hero() {
           Ha Noi, Viet Nam
         </p>
         <p className="dark:text-[#D1D5DB] mt-[0.8rem] text-gray-600">
-          <div className="relative inline ml-[0.5rem] mr-[1.5rem]">
+          <span className="relative inline ml-[0.5rem] mr-[1.5rem]">
             <span className="inline-block w-[1.2rem] h-[1.2rem] rounded-full bg-emerald-500"></span>
             <span className="animate-ping absolute top-[1.4px] -left-[0.8px] block w-[1.4rem] h-[1.4rem] rounded-full bg-emerald-500"></span>
-          </div>
+          </span>
           Available for new projects
         </p>
         <div className="mt-[4.8rem] flex">
@@ -111,7 +111,7 @@ export default function Hero() {
           alt="avatar"
           className="p-[0.8rem] bg-white dark:bg-[#030712] w-[24rem] z-10 relative"
         />
-        <div className="bg-gray-200 dark:bg-[#374151] p-[0.8rem] z-0 w-[24rem] h-[24rem] absolute top-12 left-12"></div>
+        <div className="bg-gray-200 dark:bg-[#374151] z-0 w-[24rem] h-[24rem] absolute top-12 left-12"></div>
       </div>
     </div>
   );

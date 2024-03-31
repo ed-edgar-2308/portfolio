@@ -10,3 +10,9 @@
     @apply text-[1.6rem];
   }
 }
+
+@layer components {
+  .layout {
+    @apply w-[160rem] max-w-[100%] mx-auto;
+  }
+}
