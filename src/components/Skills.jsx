@@ -11,7 +11,7 @@ export default function Skills() {
       <p className="mt-[1.6rem] text-[2rem] leading-[2.8rem] text-center text-gray-600 dark:text-[#D1D5DB]">
         The skills, tools and technologies I am really good at:
       </p>
-      <div className="flex justify-center gap-[8.6rem] mt-[4.8rem]">
+      <div className="flex flex-wrap justify-center gap-[8.6rem] mt-[4.8rem]">
         <div className="flex flex-col items-center text-center gap-[0.8rem]">
           <img
             src={htmlIcon}
