@@ -4,7 +4,7 @@
   <h1>📖 My Portfolio</h>
 </div>
 
-Portfolio Web Front-End Developer - Ralph. 📚
+Portfolio Web Front-End Developer - Edgar. 📚
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -20,7 +20,7 @@ Portfolio Web Front-End Developer - Ralph. 📚
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Home Page](https://ralph2308s.github.io/portfolio/)
+- [Home Page](https://ed-edgar-2308.github.io/portfolio/)
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-git clone git@github.com:ralph2308s/portfolio.git
+git clone git@github.com:ed-edgar-2308/portfolio.git
 cd portfolio
 npm i
 npm run dev
@@ -62,9 +62,9 @@ Your app is ready to be deployed!
 
 👤 **Ralph**
 
-- GitHub: [ralph2308s](https://github.com/ralph2308s)
-- Twitter: [ralph2308s](https://twitter.com/ralph2308s)
-- LinkedIn: [ralph2308s](https://www.linkedin.com/in/ralph2308s/)
+- GitHub: [Edgar](https://github.com/ed-edgar-2308)
+- Twitter: [Edgar](https://twitter.com/)
+- LinkedIn: [Edgar](https://www.linkedin.com/in/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
