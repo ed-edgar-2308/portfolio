@@ -23,7 +23,7 @@ export default function About() {
             <p className="dark:text-[#D1D5DB] mt-[2.4rem] text-gray-600">
               I{"'"}m a passionate,{" "}
               <a
-                href="https://www.figma.com/@ralph2308s"
+                href="https://www.figma.com/"
                 className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
                 self-proclaimed designer
               </a>{" "}
@@ -52,14 +52,14 @@ export default function About() {
               journey of early startups or enjoying some free time. You can
               follow me on{" "}
               <a
-                href="https://twitter.com/ralph2308s"
+                href="https://twitter.com/"
                 className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
                 Twitter
               </a>{" "}
               where I share tech-related bites and build in public, or you can
               follow me on{" "}
               <a
-                href="https://github.com/ralph2308s"
+                href="https://github.com/ed-edgar-2308"
                 className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
                 Github
               </a>

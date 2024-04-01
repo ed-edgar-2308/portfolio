@@ -44,7 +44,7 @@ export default function Hero() {
         </p>
         <div className="mt-[4.8rem] flex">
           <a
-            href="https://github.com/ralph2308s"
+            href="https://github.com/ed-edgar-2308"
             target="_blank"
             className="p-[0.6rem] dark:hidden mr-[0.4rem] hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]">
             <img
@@ -54,7 +54,7 @@ export default function Hero() {
             />
           </a>
           <a
-            href="https://github.com/ralph2308s"
+            href="https://github.com/ed-edgar-2308"
             target="_blank"
             className="p-[0.6rem] hidden dark:block mr-[0.4rem] hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]">
             <img
@@ -64,7 +64,7 @@ export default function Hero() {
             />
           </a>
           <a
-            href="https://twitter.com/ralph2308s"
+            href="https://twitter.com/"
             target="_blank"
             className="p-[0.6rem] dark:hidden mr-[0.4rem] hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]">
             <img
@@ -74,7 +74,7 @@ export default function Hero() {
             />
           </a>
           <a
-            href="https://twitter.com/ralph2308s"
+            href="https://twitter.com/"
             target="_blank"
             className="p-[0.6rem] hidden dark:block mr-[0.4rem] hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]">
             <img
@@ -84,7 +84,7 @@ export default function Hero() {
             />
           </a>
           <a
-            href="https://www.figma.com/@ralph2308s"
+            href="https://www.figma.com/"
             target="_blank"
             className="p-[0.6rem] dark:hidden hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]">
             <img
@@ -94,7 +94,7 @@ export default function Hero() {
             />
           </a>
           <a
-            href="https://www.figma.com/@ralph2308s"
+            href="https://www.figma.com/"
             target="_blank"
             className="p-[0.6rem] hidden dark:block hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]">
             <img
