@@ -6,7 +6,7 @@ const Header = () => {
       <a
         href=""
         className="font-bold text-5xl leading-[3.6rem] -tracking-[2%] text-gray-900 dark:text-[#F9FAFB]">
-        {"<RS />"}
+        {"<Ed />"}
       </a>
       <ul className="flex items-center gap-[2.4rem]">
         <li className="hover:text-[#111827] dark:hover:text-[#f9fafb] transition-all duration-300 font-medium text-gray-600 dark:text-[#D1D5DB]">
