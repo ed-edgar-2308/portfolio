@@ -18,7 +18,7 @@ export default function Footer() {
       <a
         href="https://www.figma.com/community/file/1262992249991763120"
         target="_blank"
-        className="underline cursor-pointer hover:text-[#111827] transition-colors duration-200 dark:hover:text-[#f9fafab]"
+        className="underline cursor-pointer hover:text-[#111827] transition-colors duration-200 dark:hover:text-[#f9fafb]"
       >
         Designed
       </a>{" "}
@@ -26,7 +26,7 @@ export default function Footer() {
       <a
         href="https://github.com/ed-edgar-2308/portfolio"
         target="_blank"
-        className="underline cursor-pointer hover:text-[#111827] transition-colors duration-200 dark:hover:text-[#f9fafab]"
+        className="underline cursor-pointer hover:text-[#111827] transition-colors duration-200 dark:hover:text-[#f9fafb]"
       >
         coded
       </a>{" "}
