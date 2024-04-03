@@ -29,7 +29,7 @@ export default function Work() {
               nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis
               in faucibus orci luctus et ultrices posuere cubilia curae.
             </p>
-            <span className="mr-[0.8rem] inline-block mt-[2.4rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
+            <span className="dark:bg-[#374151] dark:text-[#D1D5DB] mr-[0.8rem] inline-block mt-[2.4rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
               React
             </span>
             <span className="dark:bg-[#374151] dark:text-[#D1D5DB] inline-block mt-[0.8rem] mr-[0.8rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
@@ -83,7 +83,7 @@ export default function Work() {
               nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis
               in faucibus orci luctus et ultrices posuere cubilia curae.
             </p>
-            <span className="mr-[0.8rem] inline-block mt-[2.4rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
+            <span className="dark:bg-[#374151] dark:text-[#D1D5DB] mr-[0.8rem] inline-block mt-[2.4rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
               React
             </span>
             <span className="dark:bg-[#374151] dark:text-[#D1D5DB] inline-block mt-[0.8rem] mr-[0.8rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
@@ -151,7 +151,7 @@ export default function Work() {
               nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis
               in faucibus orci luctus et ultrices posuere cubilia curae.
             </p>
-            <span className="mr-[0.8rem] inline-block mt-[2.4rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
+            <span className="dark:bg-[#374151] dark:text-[#D1D5DB] mr-[0.8rem] inline-block mt-[2.4rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
               React
             </span>
             <span className="dark:bg-[#374151] dark:text-[#D1D5DB] inline-block mt-[0.8rem] mr-[0.8rem] rounded-[12px] px-8 py-[0.4rem] bg-gray-200 text-[1.4rem] font-medium leading-8 text-gray-600">
