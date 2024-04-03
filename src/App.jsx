@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Contact from "./components/Contact";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero";
 import Skills from "./components/Skills";
@@ -13,6 +14,7 @@ export default function App() {
       <About />
       <Skills />
       <Work />
+      <Contact />
     </div>
   );
 }
