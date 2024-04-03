@@ -3,7 +3,7 @@ import avatar from "../assets/images/avatar.jpg";
 export default function About() {
   return (
     <div className="bg-gray-50 dark:bg-[#111827]">
-      <div className="layout px-32 py-[9.6rem]">
+      <div className="layout py-[9.6rem]">
         <h6 className="dark:bg-[#374151] dark:text-[#D1D5DB] relative left-[50%] -translate-x-[50%] inline-block font-medium text-[1.4rem] leading-8 text-gray-600 rounded-[12px] px-8 py-[0.4rem] bg-gray-200">
           About me
         </h6>
@@ -24,7 +24,8 @@ export default function About() {
               I{"'"}m a passionate,{" "}
               <a
                 href="https://www.figma.com/"
-                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
+                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300"
+              >
                 self-proclaimed designer
               </a>{" "}
               who specializes in full stack development (React.js & Node.js). I
@@ -53,14 +54,16 @@ export default function About() {
               follow me on{" "}
               <a
                 href="https://twitter.com/"
-                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
+                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300"
+              >
                 Twitter
               </a>{" "}
               where I share tech-related bites and build in public, or you can
               follow me on{" "}
               <a
                 href="https://github.com/ed-edgar-2308"
-                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300">
+                className="underline hover:text-[#111827] dark:hover:text-[#F9FAFB] transition-all duration-300"
+              >
                 Github
               </a>
               .

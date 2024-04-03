@@ -4,14 +4,14 @@ import vimIcon from "../assets/images/vim.svg";
 
 export default function Skills() {
   return (
-    <div className="layout px-[11.2rem] py-[9.6rem]">
+    <div className="layout py-[9.6rem]">
       <h6 className="dark:bg-[#374151] dark:text-[#D1D5DB] relative left-[50%] -translate-x-[50%] inline-block font-medium text-[1.4rem] leading-8 text-gray-600 rounded-[12px] px-8 py-[0.4rem] bg-gray-200">
         Skills
       </h6>
       <p className="mt-[1.6rem] text-[2rem] leading-[2.8rem] text-center text-gray-600 dark:text-[#D1D5DB]">
         The skills, tools and technologies I am really good at:
       </p>
-      <div className="flex flex-wrap justify-center gap-[8.6rem] mt-[4.8rem]">
+      <div className="grid grid-cols-3 gay-y-4 md:grid-cols-6 md:gap-y-8 lg:grid-cols-8 lg:gap-y-12 mt-[4.8rem]">
         <div className="flex flex-col items-center text-center gap-[0.8rem]">
           <img
             src={htmlIcon}

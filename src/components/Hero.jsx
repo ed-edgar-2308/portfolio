@@ -10,7 +10,7 @@ import iconFigmaDark from "../assets/icons/icon-figma_32_dark.svg";
 
 export default function Hero() {
   return (
-    <div className="layout flex gap-[8%] px-[4%] py-[9.6rem]">
+    <div className="layout flex gap-[8%] py-[9.6rem]">
       <div className="flex-1">
         <h1 className="dark:text-[#F9FAFB] mt-4 font-bold text-8xl leading-[7.2rem] -tracking-[2%] text-gray-900">
           Hi, I{"'"}m Hoang Anh{" "}
@@ -46,7 +46,8 @@ export default function Hero() {
           <a
             href="https://github.com/ed-edgar-2308"
             target="_blank"
-            className="p-[0.6rem] dark:hidden mr-[0.4rem] hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]">
+            className="p-[0.6rem] dark:hidden mr-[0.4rem] hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]"
+          >
             <img
               src={iconGithubLight}
               alt="icon-github_light"
@@ -56,7 +57,8 @@ export default function Hero() {
           <a
             href="https://github.com/ed-edgar-2308"
             target="_blank"
-            className="p-[0.6rem] hidden dark:block mr-[0.4rem] hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]">
+            className="p-[0.6rem] hidden dark:block mr-[0.4rem] hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]"
+          >
             <img
               src={iconGithubDark}
               alt="icon-github_light"
@@ -66,7 +68,8 @@ export default function Hero() {
           <a
             href="https://twitter.com/"
             target="_blank"
-            className="p-[0.6rem] dark:hidden mr-[0.4rem] hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]">
+            className="p-[0.6rem] dark:hidden mr-[0.4rem] hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]"
+          >
             <img
               src={iconTwitterLight}
               alt="icon-twitter_light"
@@ -76,7 +79,8 @@ export default function Hero() {
           <a
             href="https://twitter.com/"
             target="_blank"
-            className="p-[0.6rem] hidden dark:block mr-[0.4rem] hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]">
+            className="p-[0.6rem] hidden dark:block mr-[0.4rem] hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]"
+          >
             <img
               src={iconTwitterDark}
               alt="icon-twitter_light"
@@ -86,7 +90,8 @@ export default function Hero() {
           <a
             href="https://www.figma.com/"
             target="_blank"
-            className="p-[0.6rem] dark:hidden hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]">
+            className="p-[0.6rem] dark:hidden hover:bg-[#f3f4f6] transition-all duration-300 rounded-[0.8rem]"
+          >
             <img
               src={iconFigmaLight}
               alt="icon-figma_light"
@@ -96,7 +101,8 @@ export default function Hero() {
           <a
             href="https://www.figma.com/"
             target="_blank"
-            className="p-[0.6rem] hidden dark:block hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]">
+            className="p-[0.6rem] hidden dark:block hover:bg-[#1f2937] transition-all duration-300 rounded-[0.8rem]"
+          >
             <img
               src={iconFigmaDark}
               alt="icon-figma_light"

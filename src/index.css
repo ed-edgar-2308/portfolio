@@ -13,6 +13,6 @@
 
 @layer components {
   .layout {
-    @apply w-[160rem] max-w-[100%] mx-auto;
+    @apply w-[160rem] max-w-[100%] mx-auto px-[4%];
   }
 }
